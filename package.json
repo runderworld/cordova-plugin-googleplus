@@ -28,8 +28,7 @@
     "cordova-ios"
   ],
   "platforms": [
-    "android",
-    "ios"
+    "android"
   ],
   "dependencies": {
     "q": "*"
